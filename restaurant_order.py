@@ -51,6 +51,7 @@ def main():
         "pasta": 7.49,
         "salad": 4.99,
         "soda": 1.99,
+        "water": 1.99,
     }
 
     # Greeting message

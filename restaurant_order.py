@@ -6,7 +6,7 @@ def display_menu(menu):
 
 def take_order(menu):
     order = {}
-    print("\nOrder today. Type 'done' when finished.")
+    print("\nOur best customer please place your order. Type 'done' when finished.")
 
     while True:
         item = input("Enter item: ").lower()

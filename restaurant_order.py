@@ -54,7 +54,7 @@ def main():
     }
 
     # Greeting message
-    print("Welcome to Our Restaurant!")
+    print("Our humble customer welcome!")
 
     # Display the menu
     display_menu(restaurant_menu)
